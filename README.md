@@ -249,12 +249,13 @@ Here is a [reference sheet](https://docs.google.com/document/d/1V5jwelLZnJR1wCbW
 ## ❀ Wish you all a fulfilling and creative journey! ❀
 
 <p align="center">
-  <img src="screenshots/Image1.png" width="20%" />
-  <img src="screenshots/Image2.png" width="20%" />
-  <img src="screenshots/Image3.png" width="20%" />
-  <img src="screenshots/Image4.jpg" width="20%" />
-  <img src="screenshots/Image5.jpg" width="20%" />
+  <img src="screenshots/Image1.png" style="display:inline-block; width:18%; vertical-align:top;" />
+  <img src="screenshots/Image2.png" style="display:inline-block; width:18%; vertical-align:top;" />
+  <img src="screenshots/Image3.png" style="display:inline-block; width:18%; vertical-align:top;" />
+  <img src="screenshots/Image4.png" style="display:inline-block; width:18%; vertical-align:top;" />
+  <img src="screenshots/Image5.png" style="display:inline-block; width:18%; vertical-align:top;" />
 </p>
+
 
 
 

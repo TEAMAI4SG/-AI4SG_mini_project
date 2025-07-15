@@ -6,7 +6,7 @@ So far you have learned about the potential of AI in our course. In this project
 Sounds too ambitious? Don’t worry, you will be walked through three steps: 
 
 - **Part 1:** explore commonly used AI technologies through demos – these are your tools!
-- **Part 2:** learn about how other companies/organizations used AI technologies for social good – these are your inspirations!
+- **Part 2:** learn about how other companies/organizations used AI technologies for social good - these are your inspirations!
 - **Part 3:** identify a topic and propose your solution! – this is your project!
 
 ## 🌍 Before getting started, let’s warm up a little bit!
@@ -142,7 +142,7 @@ Leveraging **computer vision** and AI tools, [Aerobotics](https://www.aerobotics
 As an effort to create strong institutions that emphasize peace and justice, there are a few ways that data and AI can be used to [shed light on institutional racism](https://medium.com/ibm-data-ai/data-can-shed-light-on-institutional-racism-c39a21826e6d). For example, the Incident Accuracy Reporting System utilizes **natural language processing** to collect key details from crime reports and analyzes testimonies to look for disparities. 
 
 ### Goal 17: Partnerships for the Goals 
-To strengthen the means of implementation and to revitalize global partnership for sustainable development, the United Nations[https://unsdg.un.org/latest/blog/natural-language-processing-align-national-plans-serbia-global-goals] team in Serbia uses AI based on **natural language processing** to help the country efficiently perform RIA (regulatory impact analyses) on its national development plans, so it can better align with its SDG targets. 
+To strengthen the means of implementation and to revitalize global partnership for sustainable development, [the United Nations](https://unsdg.un.org/latest/blog/natural-language-processing-align-national-plans-serbia-global-goals) team in Serbia uses AI based on **natural language processing** to help the country efficiently perform RIA (regulatory impact analyses) on its national development plans, so it can better align with its SDG targets. 
 
 ### More cases: 
 - [Click here:](https://docs.google.com/document/d/1x1UWxaCOVDHkioO9wpyfrtHOQpq22hTzd6ObyVwTUts/edit#)

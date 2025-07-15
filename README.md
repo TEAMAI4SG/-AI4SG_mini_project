@@ -1,4 +1,4 @@
-# 🤖 AI for Social Good Ideathon <img src="screenshots/Image6.png" style="float: right; width: 25px; margin-left: 10px;" />
+# 🤖 AI for Social Good Ideathon <img src="screenshots/Image6.png" style="float: right; width: 250px; margin-left: 10px;" />
 
 
 So far you have learned about the potential of AI in our course. In this project, you are carrying on the mission of using AI to address some of the most important social issues, i.e., **AI for Social Good (AI4SG)**. In particular, you will dive deeper into some of the most up-to-date AI technologies, their cases, and then brainstorm and propose solutions to address one of the social issues in your community.

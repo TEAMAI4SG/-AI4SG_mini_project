@@ -25,8 +25,37 @@ You will be introduced to different types of AI technologies through brief summa
 In this part, you will run the demos of the services listed below and consider what each service is and what the service can provide. Get ready to witness the power of creativity and intelligence converging as we delve into cutting-edge tools. 
 
 ### 🎨 1. Generative AI 
+
 Generative AI, at its core, breathes life into machines, enabling them to autonomously produce diverse, human-like outputs, from text to art, pushing the boundaries of innovation.
 
-You can try out generative AI for yourself through ChatGPT (Click here!) , but keep in mind that you will have to create an account. To see how this tool can be used to generate images, you can explore Adobe Express (Click here!). 
+You can try out generative AI for yourself through **ChatGPT** ([Click here!](https://chat.openai.com/)) , but keep in mind that you will have to create an account. To see how this tool can be used to generate images, you can explore Adobe Express ([Click here!](https://new.express.adobe.com/?category=generative-ai)). 
 
-If you are interested in generative AI services by other companies, feel free to check out the following resources: Gemini, Claude, DALL·E 3, and Adobe Firefly. 
+If you are interested in generative AI services by other companies, feel free to check out the following resources: [Gemini](https://gemini.google.com/app), [Claude](https://claude.ai/login?returnTo=%2F), [DALL·E 3](https://openai.com/dall-e-3), and [Adobe Firefly](https://www.adobe.com/products/firefly.html?gclid=CjwKCAiAqY6tBhAtEiwAHeRopfVWba0zBC66eed-xUqxDwxNVEt_SM4JqOSIM205zvD2mRFgg-p19hoCscgQAvD_BwE&sdid=JM4FW6VL&mv=search&mv2=paidsearch&ef_id=CjwKCAiAqY6tBhAtEiwAHeRopfVWba0zBC66eed-xUqxDwxNVEt_SM4JqOSIM205zvD2mRFgg-p19hoCscgQAvD_BwE:G:s&s_kwcid=AL!3085!3!677394754238!e!!g!!adobe%20firefly!19870733758!148140507838&gad_source=1). 
+
+### 👁️ 2. Computer Vision  
+
+Computer vision is a part of AI that helps machines see and understand images and videos, like recognizing faces or objects, with the aim of making them understand the visual world like humans do.
+
+While many companies provide a variety of computer vision services, you can [click this demo link](https://portal.vision.cognitive.azure.com/gallery/featured) to try out **Microsoft Azure’s Vision Studio**, where you can explore computer vision applications. 
+
+There are also other computer vision services offered by [Google](https://cloud.google.com/vision/docs/drag-and-drop), [IBM](https://www.ibm.com/topics/computer-vision), and [Amazon](https://aws.amazon.com/machine-learning/computer-vision/).
+
+### 🌐 3. Internet of Things (IoT) 
+
+The Internet of Things (IoT) empowers devices and enables them to connect and share data with each other for enhanced efficiency. From intelligent thermostats to fitness trackers, the IoT transforms everyday objects into smart robots that collaborate, aiming to streamline and interconnect our lives. 
+
+[Click this video to see notable examples](https://youtu.be/PpAFzzS4zSc?si=IIBBIzhhY8SW8Nd0) of real world applications that shape the future of our daily interactions. 
+
+To explore further, check out the following, [IBM Watson IoT platform](https://www.ibm.com/topics/internet-of-things), [Amazon](https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html), [Microsoft](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iot), and [Google](https://developers.google.com/iot). Keep in mind you may have to create an account.
+
+
+### 💬 4. Natural Language Processing (NLP) 
+
+Natural Language Processing (NLP) empowers computers to comprehend and generate human language. IBM Watson NLU ([try me!](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home)) offers a hands-on demonstration of NLP. 
+
+Feel free to check out how Google (Cloud NLP API), Microsoft (Azure AI Services), and Amazon (Comprehend) apply NLP for tasks such as sentiment analysis and language understanding, bridging the gap between human communication and machine comprehension.
+
+IBM Watson has numerous ways in which it utilizes NLP, including Natural Language Understanding, Speech to Text, Text to Speech, Language Translator, and Watson Discovery. 
+
+
+

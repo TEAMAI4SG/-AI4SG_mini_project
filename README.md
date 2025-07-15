@@ -248,5 +248,14 @@ Here is a [reference sheet](https://docs.google.com/document/d/1V5jwelLZnJR1wCbW
 
 ## ❀ Wish you all a fulfilling and creative journey! ❀
 
+<p align="center">
+  <img src="images/image1.png" width="18%" />
+  <img src="images/image2.png" width="18%" />
+  <img src="images/image3.png" width="18%" />
+  <img src="images/image4.png" width="18%" />
+  <img src="images/image5.png" width="18%" />
+</p>
+
+
 
 

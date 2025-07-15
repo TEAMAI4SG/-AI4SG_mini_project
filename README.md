@@ -1,5 +1,7 @@
 # 🤖 AI for Social Good Ideathon
 
+<img src="screenshots/Image6.png" style="margin-left: 40px; width: 300px;" />
+
 So far you have learned about the potential of AI in our course. In this project, you are carrying on the mission of using AI to address some of the most important social issues, i.e., **AI for Social Good (AI4SG)**. In particular, you will dive deeper into some of the most up-to-date AI technologies, their cases, and then brainstorm and propose solutions to address one of the social issues in your community.
 
 Sounds too ambitious? Don’t worry, you will be walked through three steps: 
@@ -249,12 +251,13 @@ Here is a [reference sheet](https://docs.google.com/document/d/1V5jwelLZnJR1wCbW
 ## ❀ Wish you all a fulfilling and creative journey! ❀
 
 <p align="center">
-  <img src="screenshots/Image1.png" style="display:inline-block; width:18%; vertical-align:top;" />
-  <img src="screenshots/Image2.png" style="display:inline-block; width:18%; vertical-align:top;" />
-  <img src="screenshots/Image3.png" style="display:inline-block; width:18%; vertical-align:top;" />
-  <img src="screenshots/Image4.png" style="display:inline-block; width:18%; vertical-align:top;" />
-  <img src="screenshots/Image5.png" style="display:inline-block; width:18%; vertical-align:top;" />
+  <img src="screenshots/Image1.png" width="20%" />
+  <img src="screenshots/Image2.png" width="20%" />
+  <img src="screenshots/Image3.png" width="20%" />
+  <img src="screenshots/Image4.jpg" width="20%" />
+  <img src="screenshots/Image5.jpg" width="20%" />
 </p>
+
 
 
 

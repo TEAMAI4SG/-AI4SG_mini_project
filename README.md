@@ -152,6 +152,8 @@ To strengthen the means of implementation and to revitalize global partnership f
 
 Your team will use one or more of the AI technologies discussed in Part 1 to address one of the diverse challenges aligned to **SDGs***
 
+![Picture1](screenshots/Picture1.jpeg)
+
 - Improve the ability to measure, analyze, or take decisive action on carbon emissions
 - Improve access to affordable and reliable clean energy
 - Improve supply chain transparency and traceability to bring fast and accurate visibility to sustainability issues where they arise

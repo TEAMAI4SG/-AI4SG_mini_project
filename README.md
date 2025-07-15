@@ -244,7 +244,7 @@ Here is a [reference sheet](https://docs.google.com/document/d/1V5jwelLZnJR1wCbW
 *This project is sponsored by National Science Foundation #2142783, #2142439, #2142490, #2142503, #2142594.**
 
 
-**❀ Wish you all a fulfilling and creative journey! ❀**
+## ❀ Wish you all a fulfilling and creative journey! ❀
 
 
 

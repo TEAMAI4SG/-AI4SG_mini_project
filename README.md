@@ -53,9 +53,97 @@ To explore further, check out the following, [IBM Watson IoT platform](https://w
 
 Natural Language Processing (NLP) empowers computers to comprehend and generate human language. IBM Watson NLU ([try me!](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home)) offers a hands-on demonstration of NLP. 
 
-Feel free to check out how Google (Cloud NLP API), Microsoft (Azure AI Services), and Amazon (Comprehend) apply NLP for tasks such as sentiment analysis and language understanding, bridging the gap between human communication and machine comprehension.
+Feel free to check out how [Google](https://cloud.google.com/natural-language?hl=en) (Cloud NLP API), [Microsoft](https://azure.microsoft.com/en-us/products/ai-services#Services) (Azure AI Services), and [Amazon](https://aws.amazon.com/comprehend/) (Comprehend) apply NLP for tasks such as sentiment analysis and language understanding, bridging the gap between human communication and machine comprehension.
 
-IBM Watson has numerous ways in which it utilizes NLP, including Natural Language Understanding, Speech to Text, Text to Speech, Language Translator, and Watson Discovery. 
+IBM Watson has numerous ways in which it utilizes NLP, including [Natural Language Understanding](https://www.ibm.com/demos/live/natural-language-understanding/self-service/home), [Speech to Text](https://www.ibm.com/demos/live/speech-to-text/self-service/home), [Text to Speech](https://www.ibm.com/demos/live/tts-demo/self-service/home), [Language Translator](https://www.ibm.com/demos/live/watson-language-translator/self-service/home), and [Watson Discovery](https://www.ibm.com/products/watson-discovery/use-cases). 
+
+### 🚀 5. Chatbot 
+
+Chatbots respond to text or speech inputs, providing information and assistance in a conversational manner. Businesses integrate these chatbots to enhance customer interactions, offering versatile applications from productivity tools to smart home control. Essentially, chatbots work as virtual helpers, assisting users in finding answers, accomplishing tasks, or exploring different services, all within a chat-like interface. 
+
+To build your own conversational agent using **IBM watsonx Assistant**, ([try this out!](https://watson-assistant-demo.c8f8f055.public.multi-containers.ibm.com)) (Remember to click on the blue button in the bottom right corner. It should say “Click here to start building.”) 
+
+Various services like [Google Dialog Flow](https://cloud.google.com/dialogflow?hl=en), [Microsoft Bot Framework Demo](https://azure.microsoft.com/en-us/products/ai-services/ai-bot-service/), and [Amazon's Lex](https://aws.amazon.com/lex/) provide users with platforms to create their own chatbots.
+
+### 🧠 6. Machine Learning  
+
+Machine learning is like teaching a virtual brain to spot patterns and make judgments. Instead of delivering step-by-step directions, we provide data that the machine can evaluate and learn from. Similarly, machine learning allows computers to improve their performance over time, making them better at tasks such as picture recognition, language translation, and future prediction like in generative AI.
+
+[Click here](https://www.youtube.com/watch?v=UJpi8Mk7794) to get a better understanding of how machine learning works.
+
+[Microsoft](https://azure.microsoft.com/en-us/products/machine-learning), [Amazon](https://aws.amazon.com/machine-learning/), [Google](https://cloud.google.com/products/ai?hl=en), and [IBM](https://www.ibm.com/products/watsonx-ai#:~:text=IBM%20Machine%20Learning%20Accelerator%2C%20a,models%20with%20transparency%20and%20visibility). Also offer Machine Learning services for businesses to optimize their daily operations.
+
+### 🧩 7. Other AI Applications (Optional)
+There are numerous applications and systems that use artificial intelligence methods to perform tasks typically requiring human intellect. These applications can analyze data, make decisions, and solve problems without needing explicit instructions for each task. They can understand human language, identify patterns in data, and learn from experience to adapt their behavior. 
+
+Microsoft offers [Cortana](https://www.microsoft.com/en-us/cortana), which is a personal productivity assistant on Microsoft devices. IBM Watson has [Knowledge Studio](https://cloud.ibm.com/catalog/services/knowledge-studio#about), which can be used to develop custom machine learning models by allowing users to teach the model industry-specific knowledge to better meet their business needs. 
+
+IBM also offers [watsonx Orchestrate](https://www.ibm.com/products/watson-orchestrate), a platform to build an AI assistant that increases task efficiency within teams. 
+
+As we have seen, there is a plethora of existing AI technologies, however, [OpenAI](https://openai.com/research/overview) is continuously researching and developing more AI services and tools. Feel free to check out what OpenAI has been working on. 
+
+---
+
+## 💼 Part 2. Cases: How AI is Used in Non-Tech Industries  
+
+Below are some ways that these AI technologies have been used as potential solutions to the various UN SDGs. These examples should inspire ideas for your project!
+
+### Goal 1: No Poverty
+UN SDG Goal 1 is to end poverty in all its forms everywhere. One example of this is [microfinance.ai](https://solve.mit.edu/challenges/digital-inclusion/solutions/37826), which is a solution from MIT Solve’s Innovation Challenge. This project idea simplifies the microfinance services for less tech-savvy individuals in developing countries who prefer to use local languages for their financial services. The mobile app uses AI-powered speech-to-text **natural language processing**, facial recognition **computer vision**, and an assistive UI to provide users with step-by-step support. 
+
+### Goal 2: Zero Hunger
+As hunger is the leading cause of death globally, this goal helps to end hunger and achieve food security. A UN project, [HungerMap](https://innovation.wfp.org/project/hungermap-live) leverages big data and predictive analytics to refine current **machine learning** models and track hunger in real time. The dashboard shares data globally and allows the World Food Programme to deliver necessities. 
+
+### Goal 3: Good Health and Wellbeing
+The UN aims to ensure healthy lives and promote well-being for all at all ages. Powered by natural language processing, [Woebot](https://woebothealth.com/woebot-for-adults/) is a **mental health chatbot** that aims to engage with and provide emotional support to individuals experiencing stress and mental wellness difficulties. In addition to that, [Atomwise](https://www.atomwise.com/), [SkinVision](https://www.skinvision.com/download-skinvision/), [Oncora Medical](https://www.oncora.ai/analytics), and SJSU’s very own [Student Assistant Motivator](https://medium.com/ibm-data-ai/a-chatbot-for-mental-health-in-an-age-of-online-learning-366287800c7b) also have their unique ways of promoting health and well-being.
+
+### Goal 4: Quality Education
+The UN strives to ensure inclusive and equitable quality education and promote lifelong opportunities for all. Using **chatbots** to leverage education, [Mindojo](https://www.mindojo.com/) acts as a private tutor where students can customize their learning goals and make education accessible. Also, [Carnegie Learning](https://www.carnegielearning.com) uses responsive AI to record habits of students and customize learning experience; keeps track of progress; makes personal study suggestions.
+
+[Duolingo](https://www.wired.com/brandlab/2018/12/ai-helps-duolingo-personalize-language-learning/#:~:text=Users%20start%20with%20Duolingo%27s%20AI,of%20the%20most%20basic%20course) also uses **advanced machine learning** and **natural language processing** to analyze user data and predict how likely they are to get an answer correct, which is the basis for their personalized learning tests and language lessons. 
+
+### Goal 5: Gender Equality
+The purpose of UN SDG Goal 5 is to achieve gender equality and empower all women and girls. A team of researchers from India developed a wearable [smart intelligent security device](https://www.ijert.org/iot-based-artificial-intelligence-women-protection-device) for women to use as self defense in a situation they feel unsafe. Utilizing **IoT**, it has an electric shock mechanism, a screaming alarm as well as a feature that alerts emergency contacts.
+
+### Goal 6: Clean Water and Sanitation
+To meet the UN's goals to ensure availability and sustainable management of water and sanitation for all, WasteShark created a waste management robot to clean our waters. [WasteShark](https://dronesolutionservices.com/wasteshark) is supported by **IoT** and drone technologies.
+ 
+### Goal 7: Affordable and Clean Energy
+[Hepta Borne](https://mindtitan.com/resources/case-studies/computer-vision-case-study-hepta-airborne-system-for-power-lines/), assists power line utilities in inspecting their power networks by using drones to collect data and a customized inspection platform called uBird to evaluate it. Powered by **computer vision**, their program provides a bird's-eye view of the grid, its most vital components, and precise reporting to work crews. 
+
+### Goal 8: Decent Work and Economic Growth
+In order to promote sustained, inclusive and sustainable economic growth, full and productive employment, and decent work for all, Nauticus Robotics has designed [Aquanaut](https://nauticusrobotics.com/aquanaut/). Backed by AI and **machine learning**, this company uses an in-house **robotics** control software to supervise their autonomous underwater robots that can manage aquaculture projects, repair oil pipelines, and scan seabeds without risking a single human life. 
+
+### Goal 9: Industry, Innovation, and Infrastructure 
+[Currux Vision](https://currux.vision/) utilizes AI processors, similar to those in autonomous vehicles, to perform a number of tasks: automated object detection; classification and tracking; self-learning and advanced prediction algorithms; and automated lane detection. Based on NVIDIA’s GPUs (graphics processing unit), the cloud, existing CCTV, and numerous sensors, this smart traffic monitoring system leverages an intricate **IoT** system to extract detailed traffic analytics, generate reports, and send real-time traffic alerts.  
+
+### Goal 10: Reduced Inequalities 
+[California’s AI task force aims](https://statescoop.com/california-generative-ai-use-cases/#:~:text=The%20report%20describes%20six%20major,diverse%20population%2C%20such%20as%20by) to reduce inequalities through utilizing **generative AI** to help identify groups that struggle to access useful state resources, and converting English educational materials into additional languages and formats for inclusivity. 
+
+### Goal 11: Sustainable Cities and Communities 
+To meet the UN’s goal of making cities and human settlements inclusive, safe, resilient, and sustainable, [Road Weather Information Systems (RWIS)](https://www.campbellsci.com/rwis) was developed to monitor road weather conditions. Utilizing **IoT**, from visibility sensors to rain and ice detectors. These complex systems are typically composed of a cell tower, RPU (remote processing unit), two road sensors, remote communication hardware, a webserver to display real-time data on browsers, monitoring software, and sensors to measure the speed and direction of wind; air temperature; humidity; and other weather factors. 
+
+### Goal 12: Responsible Consumption and Production 
+As an AI leader in commercial food waste management for huge names like IKEA, Hilton, and Wynn Resorts, [Winnow Solutions](https://www.winnowsolutions.com/) uses **computer vision** to capture images of food waste, plug and play personalized menus, automated recording of food being tossed, and customized reporting based on high quality data analytics.
+
+Also, feel free to check out [TOMRA](https://www.tomra.com/), which is a recycling company that uses **IoT** in its production line to detect foreign items and eliminate waste.
+
+### Goal 13: Climate Action
+Taking urgent action to combat climate change and its impact, [Climate TRACE](https://www.climatetrace.org/) uses satellites and remote sensing **IoT** technologies to spot greenhouse gas emissions caused by human economic activities and collect that data. Their work contributes to supply chain decarbonization, data-driven policymaking and ensuring transparency.
+
+### Goal 14: Life Below Water
+One of the UN SDG’s is to conserve and sustainably use the oceans, seas, and marine resources for sustainable development. [Plainsight](https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/?sh=5c578fbf5115), in partnership with MarineSitu, utilizes **computer vision** to ensure the sustainable coexistence of marine energy devices and aquatic life. Their AI models monitor fish species and environmental health to find suitable places for tidal turbines or wave energy converters. This technology helps assess and mitigate potential negative impacts on marine ecosystems. It monitors fish health in aquaculture, detects algal blooms, and identifies invasive species to advance marine energy projects and promote environmental sustainability. 
+
+### Goal 15: Life on Land 
+Leveraging **computer vision** and AI tools, [Aerobotics](https://www.aerobotics.com) specializes in precision agriculture, providing farmers with insights through drone and satellite technologies, as well as data analytics. The company's primary goal is to assist farmers in monitoring crop health, identifying potential difficulties, and optimizing farming operations.
+
+### Goal 16: Peace, Justice, and Strong Institutions 
+As an effort to create strong institutions that emphasize peace and justice, there are a few ways that data and AI can be used to [shed light on institutional racism](https://medium.com/ibm-data-ai/data-can-shed-light-on-institutional-racism-c39a21826e6d). For example, the Incident Accuracy Reporting System utilizes **natural language processing** to collect key details from crime reports and analyzes testimonies to look for disparities. 
+
+### Goal 17: Partnerships for the Goals 
+To strengthen the means of implementation and to revitalize global partnership for sustainable development, the United Nations[https://unsdg.un.org/latest/blog/natural-language-processing-align-national-plans-serbia-global-goals] team in Serbia uses AI based on **natural language processing** to help the country efficiently perform RIA (regulatory impact analyses) on its national development plans, so it can better align with its SDG targets. 
+
+### [More cases:](https://docs.google.com/document/d/1x1UWxaCOVDHkioO9wpyfrtHOQpq22hTzd6ObyVwTUts/edit#)
 
 
 

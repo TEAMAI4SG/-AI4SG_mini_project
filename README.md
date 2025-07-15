@@ -204,7 +204,7 @@ While this project has given you a chance to explore AI, it is important to keep
 
 Here are two examples of some AI-related job postings to consider: 
 
-**Prompt Engineer, Scale AI**
+1) **Prompt Engineer, Scale AI**
 
 Sample Job Description:
 - Develop LLM applications to evaluate data quality, solve difficult problems of synthetic data capabilities and execute business solutions
@@ -222,7 +222,29 @@ Sample Requirements:
 - Familiarity with LLM evaluation metrics (BLUE, ROUGE, MAUVE, etc.) and statistics
 - Strong written and verbal communication skills
 
+2) **AI Marketing Intern, Atlas Copco**
 
+Sample Job Description:
+- Help design user-friendly AI tools for the sales team.
+- Develop and implement AI algorithms to analyze market trends and improve digital marketing efforts.
+- Collaborate with the digital team to integrate AI solutions into existing systems.
+- Conduct data analysis to identify sales trends and provide actionable insights.
+- Create engaging content for multiple social media platforms, informed by AI-driven insights.
+- Monitor digital marketing performance, utilizing AI to understand metrics and report findings with actionable recommendations.
+
+Sample Requirements:
+- Currently enrolled in a bachelor's or master's degree program in Marketing, Communications, Computer Science, AI, or a related field with an academic record.
+- Interest in AI and its applications in digital marketing.
+- Experience with Excel (can maintain spreadsheets) and PowerPoint.
+- Familiarity with social media platforms, email marketing tools, website analytics, and basic programming or AI modeling.
+- Excellent teamwork capabilities.
+
+Here is a [reference sheet](https://docs.google.com/document/d/1V5jwelLZnJR1wCbW6dyok-peMkkC87ViGradNYYka_M/edit) with even more potential job opportunities in AI if you are interested.
+
+*This project is sponsored by National Science Foundation #2142783, #2142439, #2142490, #2142503, #2142594.**
+
+
+**❀ Wish you all a fulfilling and creative journey! ❀**
 
 
 

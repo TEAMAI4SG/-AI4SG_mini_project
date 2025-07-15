@@ -143,7 +143,23 @@ As an effort to create strong institutions that emphasize peace and justice, the
 ### Goal 17: Partnerships for the Goals 
 To strengthen the means of implementation and to revitalize global partnership for sustainable development, the United Nations[https://unsdg.un.org/latest/blog/natural-language-processing-align-national-plans-serbia-global-goals] team in Serbia uses AI based on **natural language processing** to help the country efficiently perform RIA (regulatory impact analyses) on its national development plans, so it can better align with its SDG targets. 
 
-### [More cases:](https://docs.google.com/document/d/1x1UWxaCOVDHkioO9wpyfrtHOQpq22hTzd6ObyVwTUts/edit#)
+### More cases: 
+- [Click here:](https://docs.google.com/document/d/1x1UWxaCOVDHkioO9wpyfrtHOQpq22hTzd6ObyVwTUts/edit#)
 
+---
+
+## ♻️ Part 3. Your AI-Powered Solution for SDGs 
+
+Your team will use one or more of the AI technologies discussed in Part 1 to address one of the diverse challenges aligned to **SDGs***
+
+- Improve the ability to measure, analyze, or take decisive action on carbon emissions
+- Improve access to affordable and reliable clean energy
+- Improve supply chain transparency and traceability to bring fast and accurate visibility to sustainability issues where they arise
+- Address issues of water scarcity and quality
+- Reduce volume of and demand for materials that create the biggest waste footprint (plastics, electronics, food, textile), and encourage reuse/recycle opportunities
+- Build effective and efficient ways to quantifiably promote, preserve, and protect biodiversity
+- Reduce global food insecurity through, as examples, improvements to distribution or sustainable farming practices
+- Build equitable access to sustainability solutions, education, and job opportunities
+- *The above theme was adapted from **IBM Call for Code 2022**.
 
 
